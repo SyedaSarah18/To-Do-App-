@@ -1,4 +1,4 @@
-# Build Todo Application with Go & React
+# Todo Application with Go & React
 
 Tech Stack
 * [Go](https://go.dev/) - Server
